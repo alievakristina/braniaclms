@@ -1,1 +1,1 @@
-# Here is braniaclms ptoject - learning management system
+# Here is braniaclms project - learning management system
